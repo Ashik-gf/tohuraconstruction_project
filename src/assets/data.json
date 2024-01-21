@@ -1,0 +1,39 @@
+[
+    {
+        "image":"../../src/assets/Image/dozer.png",
+        "title":"Dozer",
+        "id":1,
+        "description":"This is Dozer"
+    },
+    {
+        "image":"../../src/assets/Image/JCB.jpeg",
+        "title":"JCB",
+        "id":2
+        ,
+        "description":"This is Dozer"
+    },
+    {
+        "image":"../../src/assets/Image/Exevator.png",
+        "title":"Excavator",
+        "id":1,
+        "description":"This is Dozer"
+    },
+    {
+        "image":"../../src/assets/Image/mixer.jpeg",
+        "title":"Mixer",
+        "id":1,
+        "description":"This is Dozer"
+    },
+    {
+        "image":"../../src/assets/Image/primer.jpeg",
+        "title":"Primer",
+        "id":1,
+        "description":"This is Dozer"
+    },
+    {
+        "image":"../../src/assets/Image/truck.png",
+        "title":"Drum Track",
+        "id":1,
+        "description":"This is Dozer"
+    }
+]
