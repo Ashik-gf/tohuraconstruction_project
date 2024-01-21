@@ -37,7 +37,7 @@ export default function Banner() {
         <div className=' relative'>
           <img className=' h-[350px] w-full' src={photos} />
           <div className=' bg-black bg-opacity-50 absolute
-           top-[40%] left-[18%] md:top-[40%] md:left-[22%] lg:top-[40%] lg:left-[18%]
+           top-[40%] left-[18%] md:top-[40%] md:left-[22%] lg:top-[40%] lg:left-[25%]
            rounded-2xl px-2 py-3'>
             <h1 className=' md:text-2xl lg:text-4xl text-white font-bold'>
               M/S Towhura Constructions And RealState
@@ -55,7 +55,7 @@ export default function Banner() {
         <div className=' relative'>
           <img className=' h-[350px] w-full' src={photos2} />
           <div className=' bg-black bg-opacity-50 absolute
-           top-[40%] left-[18%] md:top-[40%] md:left-[22%] lg:top-[40%] lg:left-[18%]
+           top-[40%] left-[18%] md:top-[40%] md:left-[22%] lg:top-[40%] lg:left-[25%]
             rounded-2xl px-2'>
             <h1 className=' md:text-2xl lg:text-4xl text-white font-bold'>
               M/S Towhura Constructions And RealState
@@ -68,7 +68,7 @@ export default function Banner() {
         <div className=' relative'>
           <img className=' h-[350px] w-full' src={photos3} />
           <div className=' bg-black bg-opacity-50 absolute
-           top-[40%] left-[18%] md:top-[40%] md:left-[22%] lg:top-[40%] lg:left-[18%]
+           top-[40%] left-[18%] md:top-[40%] md:left-[22%] lg:top-[40%] lg:left-[25%]
             rounded-2xl px-2'>
             <h1 className=' md:text-2xl lg:text-4xl text-white font-bold'>
               M/S Towhura Constructions And RealState
@@ -81,7 +81,7 @@ export default function Banner() {
         <div className=' relative'>
           <img className=' h-[350px] w-full' src={photos4} />
           <div className=' bg-black bg-opacity-50 absolute
-           top-[40%] left-[18%] md:top-[40%] md:left-[22%] lg:top-[40%] lg:left-[18%]
+           top-[40%] left-[18%] md:top-[40%] md:left-[22%] lg:top-[40%] lg:left-[25%]
             rounded-2xl px-2'>
             <h1 className=' md:text-2xl lg:text-4xl text-white font-bold'>
               M/S Towhura Constructions And RealState
