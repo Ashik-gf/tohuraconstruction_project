@@ -7,7 +7,7 @@ const menus = [
   {
     id: "1",
     menu: "Home",
-    path: "/home",
+    path: "/",
   },
   { id: "2", menu: "About", path: "/about" },
   {
