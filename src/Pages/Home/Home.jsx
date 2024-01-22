@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Navbar from '../../Components/Navbar/Navbar'
 import Banner from '../../Components/Banner/Banner'
 import SocialMedia from '../../Components/SocialMedia/SocialMedia'
@@ -11,7 +11,9 @@ const Home = () => {
       <Navbar />
       <Banner />
       <SocialMedia />
-    <OurEquep />
+   <div className=' my-8'>
+   <OurEquep />
+   </div>
     </div>
   )
 }

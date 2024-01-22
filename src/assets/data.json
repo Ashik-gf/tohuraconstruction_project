@@ -3,37 +3,107 @@
         "image":"../../src/assets/Image/dozer.png",
         "title":"Dozer",
         "id":1,
-        "description":"This is Dozer"
+        "description":{
+            "brand":"Uniter Engineering",
+            "weight"	:"9,700 kg (21,410 lb)",
+            "engine Output":"76 Hp",
+           " paving Thickness":	"10 mm to 200 mm",
+         "paving speed" :"0 to 26 m/min"
+ 
+         }
     },
     {
         "image":"../../src/assets/Image/JCB.jpeg",
         "title":"JCB",
         "id":2
         ,
-        "description":"This is Dozer"
+        "description":{
+            "brand":"Uniter Engineering",
+            "weight"	:"9,700 kg (21,410 lb)",
+            "engine Output":"76 Hp",
+           " paving Thickness":	"10 mm to 200 mm",
+         "paving speed" :"0 to 26 m/min"
+ 
+         }
     },
     {
         "image":"../../src/assets/Image/Exevator.png",
         "title":"Excavator",
-        "id":1,
-        "description":"This is Dozer"
+        "id":3,
+        "description":{
+            "brand":"Uniter Engineering",
+            "weight"	:"9,700 kg (21,410 lb)",
+            "engine Output":"76 Hp",
+           " paving Thickness":	"10 mm to 200 mm",
+         "paving speed" :"0 to 26 m/min"
+ 
+         }
     },
     {
         "image":"../../src/assets/Image/mixer.jpeg",
         "title":"Mixer",
-        "id":1,
-        "description":"This is Dozer"
+        "id":4,
+        "description":{
+            "brand":"Uniter Engineering",
+            "weight"	:"9,700 kg (21,410 lb)",
+            "engine Output":"76 Hp",
+           " paving Thickness":	"10 mm to 200 mm",
+         "paving speed" :"0 to 26 m/min"
+ 
+         }
     },
     {
         "image":"../../src/assets/Image/primer.jpeg",
         "title":"Primer",
-        "id":1,
-        "description":"This is Dozer"
+        "id":5,
+        "description":{
+            "brand":"Uniter Engineering",
+            "weight"	:"9,700 kg (21,410 lb)",
+            "engine Output":"76 Hp",
+           " paving Thickness":	"10 mm to 200 mm",
+         "paving speed" :"0 to 26 m/min"
+ 
+         }
     },
     {
         "image":"../../src/assets/Image/truck.png",
         "title":"Drum Track",
-        "id":1,
-        "description":"This is Dozer"
+        "id":6,
+        "description":{
+            "brand":"Uniter Engineering",
+            "weight"	:"9,700 kg (21,410 lb)",
+            "engine Output":"76 Hp",
+           " paving Thickness":	"10 mm to 200 mm",
+         "paving speed" :"0 to 26 m/min"
+ 
+         }
+    },
+    {
+        "image":"../../src/assets/Image/image-removebg-preview (4).png",
+        "title":"Road Construction Machines",
+        "id":7,
+        "description":{
+           "brand":"Uniter Engineering",
+           "weight"	:"9,700 kg (21,410 lb)",
+           "engine Output":"76 Hp",
+          " paving Thickness":	"10 mm to 200 mm",
+        "paving speed" :"0 to 26 m/min"
+
+        }
+
+    }
+    ,
+    {
+        "image":"../../src/assets/Image/truck.png",
+        "title":"Drum Track",
+        "id":8,
+        "description":{
+            "brand":"Uniter Engineering",
+            "weight"	:"9,700 kg (21,410 lb)",
+            "engine Output":"76 Hp",
+           " paving Thickness":	"10 mm to 200 mm",
+         "paving speed" :"0 to 26 m/min"
+ 
+         }
     }
 ]
