@@ -9,7 +9,7 @@ import 'swiper/css/navigation';
 
 // import required modules
 import { Autoplay, Pagination, Navigation } from 'swiper/modules';
-import photos from '../../assets/Image/banner.png';
+import photos from '../../assets/Image/Banner.jpg';
 import photos2 from '../../assets/Image/banner3.png';
 import photos3 from '../../assets/Image/banner4.png';
 import photos4 from '../../assets/Image/banner5.png';
@@ -34,62 +34,29 @@ export default function Banner() {
         
       >
         <SwiperSlide >
-        <div className=' relative'>
-          <img className=' h-[350px] w-full' src={photos} />
-          <div className=' bg-black bg-opacity-50 absolute
-           top-[40%] left-[18%] md:top-[40%] md:left-[22%] lg:top-[40%] lg:left-[25%]
-           rounded-2xl px-2 py-3'>
-            <h1 className=' md:text-2xl lg:text-4xl text-white font-bold'>
-              M/S Towhura Constructions And RealState
-            </h1>
-            <p className=' text-white text-center text-xl'>Your Work is Our Responceablity</p>
-            <div className=" flex justify-center items-center">
-          <button className=" hover:border-b-4 border-white text-white border-2 rounded-b-md rounded-t-md px-4">
-            Visit Us
-          </button>
-        </div>
-          </div>
+        <div className=' flex justify-center items-center'>
+          <img className=' h-[90vh] md:h-[80vh] w-[900px]' src={photos} />
         </div>
         </SwiperSlide>
+
         <SwiperSlide >
-        <div className=' relative'>
-          <img className=' h-[350px] w-full' src={photos2} />
-          <div className=' bg-black bg-opacity-50 absolute
-           top-[40%] left-[18%] md:top-[40%] md:left-[22%] lg:top-[40%] lg:left-[25%]
-            rounded-2xl px-2'>
-            <h1 className=' md:text-2xl lg:text-4xl text-white font-bold'>
-              M/S Towhura Constructions And RealState
-            </h1>
-            <p className=' text-white text-center text-xl'>Your Work is Our Responceablity</p>
-          </div>
+        <div className=' flex justify-center items-center'>
+          <img className=' h-[90vh] md:h-[80vh] w-[900px]' src={photos} />
         </div>
         </SwiperSlide>
+
         <SwiperSlide >
-        <div className=' relative'>
-          <img className=' h-[350px] w-full' src={photos3} />
-          <div className=' bg-black bg-opacity-50 absolute
-           top-[40%] left-[18%] md:top-[40%] md:left-[22%] lg:top-[40%] lg:left-[25%]
-            rounded-2xl px-2'>
-            <h1 className=' md:text-2xl lg:text-4xl text-white font-bold'>
-              M/S Towhura Constructions And RealState
-            </h1>
-            <p className=' text-white text-center text-xl'>Your Work is Our Responceablity</p>
-          </div>
+        <div className=' flex justify-center items-center'>
+          <img className=' h-[90vh] md:h-[80vh] w-[900px]' src={photos} />
         </div>
         </SwiperSlide>
+
         <SwiperSlide >
-        <div className=' relative'>
-          <img className=' h-[350px] w-full' src={photos4} />
-          <div className=' bg-black bg-opacity-50 absolute
-           top-[40%] left-[18%] md:top-[40%] md:left-[22%] lg:top-[40%] lg:left-[25%]
-            rounded-2xl px-2'>
-            <h1 className=' md:text-2xl lg:text-4xl text-white font-bold'>
-              M/S Towhura Constructions And RealState
-            </h1>
-            <p className=' text-white text-center text-xl'>Your Work is Our Responceablity</p>
-          </div>
+        <div className=' flex justify-center items-center'>
+          <img className=' h-[90vh] md:h-[80vh] w-[900px]' src={photos} />
         </div>
         </SwiperSlide>
+
       </Swiper>
     </>
   );

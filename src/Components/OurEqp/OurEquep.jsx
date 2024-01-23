@@ -56,16 +56,14 @@ const [setDetails, setdetails]=useState()
                 <div onClick={hnadelClosed}>
                 <p className=" p-4"><RxCross2 className=" text-red-600 text-2xl font-bold" /></p>
                 </div>
-                <div>
+                <div className=" mx-4">
           
-                  <p className=" text-white text-2xl"> <span className=" mx-2 text-green-600">Brand:</span> {data.description.brand}</p>
-                  <p className=" text-white text-2xl"> <span className=" mx-2 text-green-600">:</span> {data.description.brand}</p>
-                  <p className=" text-white text-2xl"> <span className=" mx-2 text-green-600">Brand:</span> {data.description.brand}</p>
-                  <p className=" text-white text-2xl"> <span className=" mx-2 text-green-600">Brand:</span> {data.description.brand}</p>
-                  <p className=" text-white text-2xl"> <span className=" mx-2 text-green-600">Brand:</span> {data.description.brand}</p>
-                  <p className=" text-white text-2xl"> <span className=" mx-2 text-green-600">Brand:</span> {data.description.brand}</p>
-                  <p className=" text-white text-2xl"> <span className=" mx-2 text-green-600">Brand:</span> {data.description.brand}</p>
-                  <p className=" text-white text-2xl"> <span className=" mx-2 text-green-600">Brand:</span> {data.description.brand}</p>
+                  <p className=" text-white text-md font-salsa"> <span className=" font-mono font-bold text-xl mx-2 text-green-600">Brand:</span> {data.description.brand}</p>
+                  <p className=" text-white text-md font-salsa"> <span className=" font-mono font-bold text-xl mx-2 text-green-600">Weight:</span> {data.description.weight}</p>
+                  <p className=" text-white text-md font-salsa"> <span className=" font-mono font-bold text-xl mx-2 text-green-600">Engine Output:</span> {data.description.brand}</p>
+                  <p className=" text-white text-md font-salsa"> <span className=" font-mono font-bold text-xl mx-2 text-green-600">paving Thickness:</span> {data.description.paving_Thickness}</p>
+                  <p className=" text-white text-md font-salsa"> <span className=" font-mono font-bold text-xl mx-2 text-green-600">Paving speed:</span> {data.description.paving_speed}</p>
+
                   <p>{data.description.Weight}</p>
                 </div>
 
